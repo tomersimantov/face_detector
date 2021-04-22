@@ -1,1 +1,1 @@
-# face_detector<img src="https://pastepixel.com/image/aAS3FEw5WUueX9DtA5tN.png" alt=""/>
+# face_detector<img src="https://pastepixel.com/image/dapStAgerrpE4uTZ4vse.png" alt=""/>
